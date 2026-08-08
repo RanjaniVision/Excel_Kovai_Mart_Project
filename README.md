@@ -326,6 +326,9 @@ to reduce avoidable returns.
 
 The final Excel dashboard provides a consolidated view of the business performance.
 
+<img width="1888" height="722" alt="image" src="https://github.com/user-attachments/assets/4a3a68c9-8f9e-4268-af6c-4172c31c4d59" />
+
+
 ### Dashboard focuses on:
 
 * 💰 Revenue
