@@ -75,22 +75,17 @@ The project uses a supermarket transaction dataset containing **800 sales transa
 
 ---
 
-# 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
-### Microsoft Excel
+* **Microsoft Excel** – Data analysis, calculations, reporting, and dashboard development
+* **Power Query** – Data cleaning, transformation, and preparation
+* **Excel Tables** – Structured data management
+* **Excel Formulas** – KPI and business metric calculations
+* **Pivot Tables** – Sales and performance analysis
+* **Pivot Charts & Excel Charts** – Data visualization
+* **Conditional Formatting** – KPI and performance highlighting
+* **Excel Dashboard** – Interactive business reporting and decision-making
 
-The project was developed primarily using:
-
-* Microsoft Excel
-* Excel Tables
-* Excel Formulas
-* Pivot Tables
-* Pivot-based analysis
-* KPI calculations
-* Data filtering and aggregation
-* Charts and visualizations
-* Dashboard design
-* Business analysis
 
 ---
 
