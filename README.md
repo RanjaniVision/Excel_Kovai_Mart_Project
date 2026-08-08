@@ -498,4 +498,3 @@ This project demonstrates how Excel can be used not only for calculations and re
 
 ---
 
-⭐ *This project was developed as a practical data analytics project to demonstrate the complete journey from raw business data to actionable insights.*
